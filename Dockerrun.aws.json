@@ -2,7 +2,7 @@
   "AWSEBDockerrunVersion": "1",
   "Authentication": {
     "Bucket": "whitecoats-devops",
-    "Key": "config.json"
+    "Key": "index.io.docker/config.json"
   },
   "Image": {
     "Name": "sriram1204/sample-spring:3.8",
